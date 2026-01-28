@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **hyunwookim821/hyunwookim821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,12 +31,6 @@ Here are some ideas to get you started:
 **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=flat&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=flat&hide_border=true) |
-| :--- | :--- |
 
 ---
 
