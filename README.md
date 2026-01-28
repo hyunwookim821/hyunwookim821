@@ -14,21 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:27e9ec,100:39ead5&height=180&text=Hyunwoo%20GitHub&animation=&fontColor=000000&fontSize=70" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          </div>
-    </div>
+# 안녕하세요, [김현우]입니다. 👋
+
+> **Backend Developer** > "단순한 코드가 아닌, 가치를 전달하는 제품을 만드는 것에 집중합니다."
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Backend Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=flat&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=flat&hide_border=true) |
+| :--- | :--- |
+
+---
+
+### 📫 Contact & More
+* **Email** : [rlagusdn821@naver.com]
+
     
