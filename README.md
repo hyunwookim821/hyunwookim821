@@ -34,6 +34,13 @@ Here are some ideas to get you started:
 
 ---
 
+### 📊 Stats & Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=flat&hide_border=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=flat&hide_border=true" alt="GitHub Stats" height="165" />
+</p>
+
 ### 📫 Contact & More
 * **Email** : [rlagusdn821@naver.com]
 
