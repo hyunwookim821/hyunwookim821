@@ -19,9 +19,11 @@
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunwookim821&layout=compact&include_all_commits=true&count_private=true&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyunwookim821" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyunwookim821&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyunwookim821&theme=default" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyunwookim821&theme=default" />
 </div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
