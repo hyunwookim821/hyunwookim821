@@ -39,4 +39,9 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunwookim821&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
+
+    ### 📂 Featured Project
+<a href="https://github.com/hyunwookim821/Capstone_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=본인ID&repo=레포이름&theme=flat&show_owner=true" />
+</a>
     
