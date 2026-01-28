@@ -17,13 +17,11 @@
   </div>
 </div>
 <div align="center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 GitHub Stats </h2>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyunwookim821" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyunwookim821&theme=default" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyunwookim821&theme=default" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunwookim821&show_icons=true&theme=default)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunwookim821&layout=compact)
 </div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
