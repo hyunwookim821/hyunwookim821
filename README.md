@@ -3,7 +3,7 @@
 </div>
 <div align="center"> 
   <br>
-  <p>🤝 <b>"함께 일하고 싶은 개발자"</b>입니다.</p>
+ 
 </div>
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
